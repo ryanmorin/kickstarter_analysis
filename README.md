@@ -54,4 +54,4 @@ The data set had an additional outcome descriptor: live.  This was not cited in 
    3. Average amount of goal for successful campaigns vs. unsuccessful campaigns
 
 
-[Kickstarter Challenge](https://github.com/ryanmorin/kickstarter_analysis/blob/main/kickstarter_challenge.xlsx)
+[Kickstarter Challenge](https://github.com/ryanmorin/kickstarter_analysis/blob/main/kickstarter_challenge.zip)
