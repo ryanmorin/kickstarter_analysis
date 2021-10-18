@@ -22,7 +22,7 @@ The most successful month to launch a Kickstarter campaign is May and the worst 
 ### Analysis of Outcomes Based on Goals
 The average successful campaign ($9.8K) had a goal that was 6x's smaller compared to campaigns that were unsuccessful ($60K). Successful Theater campaigns had a goal that was 31% smaller compared to the average.  Unsuccessful theater campaigns had goals that were 9% larger than the average unsuccessful campaign. Campaigns that met their goals had a larger number of backers compared to unsuccessful campaigns.
 
-![outcomes_line_chart](https://github.com/ryanmorin/kickstarter_analysis/blob/main/avg_goal_amtt.bmp?raw=true)
+![outcomes_line_chart](https://github.com/ryanmorin/kickstarter_analysis/blob/main/avg_goal_amt.bmp?raw=true)
 
 ### Challenges and Difficulties Encountered
 If the staff pick field is "TRUE" the campaign has a much better chance of begin successful (87%) compared to those campaigns where that 
