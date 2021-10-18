@@ -31,7 +31,7 @@ Campaigns that met their goals had a larger number of backers compared to unsucc
 If the staff pick field is "TRUE" the campaign has a much better chance of begin successful (87%) compared to those campaigns where that 
 field is "FALSE" (47%). The same is true for the Spotlight field.  All campaigns (100%) where the field is "TRUE" were successful and 100% where the field was "FALSE" were unsuccessful. It's important to know how this is assigned as it seems to impact the likelyhood of a successful campaign.
 
-The data set had an additional outcome descriptor: live.  This was not cited in the assignment instructions regardless I chose to keep the data in the data set. All the 'live' outcomes are found in 2017.  The findings outlined above refer to specific date ranges.
+The data set had an additional outcome descriptor: live.  This was not cited in the assignment instructions regardless I chose to keep the data in the data set. All the 'live' outcomes are found in 2017.  The findings outlined above generally refer to data between 2014 and 2016.
 
 ## Results
 
