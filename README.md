@@ -17,8 +17,12 @@ since 2014 has been over 65% this is much higher than the success rate for non-t
 Between 2014 and 2016, unsuccessful Kickstarter campaigns lasted on average 34.7 days whereas successful campaigns were finished nearly 3 days earlier (31.9 days)
 The most successful month to launch a Kickstarter campaign is May and the worst month is December.
 
+![outcomes_line_chart](https://github.com/ryanmorin/kickstarter_analysis/blob/main/outcomes_bar_chart.bmp?raw=true)
+
 ### Analysis of Outcomes Based on Goals
 The average successful campaign ($9.8K) had a goal that was 6x's smaller compared to campaigns that were unsuccessful ($60K). Successful Theater campaigns had a goal that was 31% smaller compared to the average.  Unsuccessful theater campaigns had goals that were 9% larger than the average unsuccessful campaign. Campaigns that met their goals had a larger number of backers compared to unsuccessful campaigns.
+
+![outcomes_line_chart](https://github.com/ryanmorin/kickstarter_analysis/blob/main/avg_goal_amtt.bmp?raw=true)
 
 ### Challenges and Difficulties Encountered
 If the staff pick field is "TRUE" the campaign has a much better chance of begin successful (87%) compared to those campaigns where that 
@@ -42,17 +46,3 @@ field is "FALSE" (47%). The same is true for the Spotlight field.  All campaigns
    1. Success Rates by Month
    2. Average amount of time for a successful campaign
    3. Average amount of goal for successful campaigns vs. unsuccessful campaigns
-
-
-
-
-
-
-
-
-
-# An Analysis of Kickstarter Campaigns
-Performing analysis on kickstarter data to uncover trends
----
-## Outcomes by Month
-![outcomes_line_chart](https://github.com/ryanmorin/kickstarter_analysis/blob/main/outcomes_line_chart.bmp?raw=true)
