@@ -48,4 +48,4 @@ field is "FALSE" (47%). The same is true for the Spotlight field.  All campaigns
    3. Average amount of goal for successful campaigns vs. unsuccessful campaigns
 
 
-[filename]((https://github.com/ryanmorin/kickstarter_analysis/blob/main/kickstarter_challenge.xlsx)
+[filename](https://github.com/ryanmorin/kickstarter_analysis/blob/main/kickstarter_challenge.xlsx)
