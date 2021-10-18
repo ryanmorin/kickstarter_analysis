@@ -31,12 +31,12 @@ field is "FALSE" (47%). The same is true for the Spotlight field.  All campaigns
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-   1. There was more chance of a successful outcome if you launched a campaign in June compared to December
+   1. There was more chance of a successful outcome if a campaign was launched in May compared to December
    2. Shorter campaigns are more likely to have a successful outcome.
 
 - What can you conclude about the Outcomes based on Goals?
-   1. The smaller the goal, the greater chance for the campaign to meet it's goal.
-   2. The more backers, the greater chance for the campaign to meet it's goal.
+   1. The smaller the goal, the greater the chance for the campaign to meet it's goal.
+   2. The more backers, the greater the chance for the campaign to meet it's goal.
 
 - What are some limitations of this dataset?
    1. The Staff Pick field isn't well understood. It seems to be closely associated with a successful campaign.
