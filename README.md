@@ -2,10 +2,10 @@
 
 ## Overview of Project
 Louise is organizing a play called Fever. To fund the play Louise started a Kickstarter campaign. 
-Louise's kickstarter campaign was not successful.
+Louise's kickstarter campaign was not successful. The analysis uses Kickstarter data from over 4100 campaigns that were launched between November 2009 and March 2017.
 
 ### Purpose
-Louise would like to understand how different campaigns faired based on their launch dates and whether
+Using this data, Louise would like to understand how different campaigns faired based on their launch dates and whether
 they achieved their funding goals.
 
 ## Analysis and Challenges
@@ -35,20 +35,13 @@ The data set had an additional outcome descriptor: live.  This was not cited in 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-   1. There was more chance of a successful outcome if a campaign was launched in May compared to December
-   2. Shorter campaigns are more likely to have a successful outcome.
+Analyzing the outcomes in relation to the date the campaigns were launched, there is more chance that a campaign would have a successful outcome if the campaign was launched in May. Conversely, December was the least successful month to launch a Kickstarter campaign. Additionally longer campaigns did not increase the chances of meeting the funding goal. In fact, shorter campaigns were more likely to have a successful outcome.
 
-- What can you conclude about the Outcomes based on Goals?
-   1. The smaller the goal, the greater the chance for the campaign to meet it's goal.
-   2. The greater the number of backers, the greater the chance for the campaign to meet it's goal.
+Next, the analysis focued on the goals and how that impacted the outcome. The smaller the goal, the greater the chance for the campaign to meet it's goal. Successful campaigns were on average 6x's smaller than unsuccessful campaigns. In the Theater category, the average successful campaign was over 30% smaller than the average and the average unsuccessful campaign was 9% larger. Because the average successful Theater goal was smaller compared to the average, Theater required fewer backers to meet it goal. 
 
-- What are some limitations of this dataset?
-   1. The Staff Pick field isn't well understood. It seems to be closely associated with a successful campaign.
-   2. The Spotlight field isn't well understood. It seems to be closely associated with a successful campaign.
-   3. The data set had an additional outcome called 'live'.  I chose to keep the 'live' outcomes in the data set.
+There are two fields that require additional research: Staff Pick and Spotlight. Both of these fields appear to be closely associated with a campaign's success. In the case of Spotlight, if that field was coded as 'True', 100% of the campaigns were successful. Understanding how a campaign could have this field coded as true would be very useful in recommending a success strategy for campaigns. The data set had an additional outcome called 'live'.  I chose to keep the 'live' outcomes in the data set.
    
-- What are some other possible tables and/or graphs that we could create?
+There are some other graphs that would be useful:
    1. Success Rates by Month
    2. Average amount of time for a successful campaign
    3. Average amount of goal for successful campaigns vs. unsuccessful campaigns
