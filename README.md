@@ -39,12 +39,13 @@ Analyzing the outcomes in relation to the date the campaigns were launched, ther
 
 Next, the analysis focued on the goals and how that impacted the outcome. The smaller the goal, the greater the chance for the campaign to meet it's goal. Successful campaigns were on average 6x's smaller than unsuccessful campaigns. In the Theater category, the average successful campaign was over 30% smaller than the average and the average unsuccessful campaign was 9% larger. Because the average successful Theater goal was smaller compared to the average, Theater required fewer backers to meet it goal. 
 
-There are two fields that require additional research: Staff Pick and Spotlight. Both of these fields appear to be closely associated with a campaign's success. In the case of Spotlight, if that field was coded as 'True', 100% of the campaigns were successful. Understanding how a campaign could have this field coded as true would be very useful in recommending a success strategy for campaigns. The data set had an additional outcome called 'live'.  I chose to keep the 'live' outcomes in the data set.
+There are two fields that require additional research: Staff Pick and Spotlight. Both of these fields appear to be closely associated with a campaign's success. In the case of Spotlight, if that field was coded as 'True', 100% of the campaigns were successful. Understanding how the Spotlight or Staff Pick field is assigned would be very useful in recommending a success strategy for campaigns. 
    
 There are some other graphs that would be useful:
-   1. Success Rates by Month
-   2. Average amount of time for a successful campaign
-   3. Average amount of goal for successful campaigns vs. unsuccessful campaigns
+   1. Average amount of time for a successful campaign
+   2. Average amount of goal for successful campaigns vs. unsuccessful campaigns
+
+
 
 
 [Kickstarter Challenge](https://github.com/ryanmorin/kickstarter_analysis/blob/main/kickstarter_challenge.zip)
